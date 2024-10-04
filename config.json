@@ -1,8 +1,17 @@
 {
-    "PREFIX": "!",
-    "dakogOten": "password128",
-    "PORT": 21850,
-    "WEBVIEW": "https://e4c2b525-3083-443e-a621-cd1df73ebf74-00-r2kcw335990y.sisko.replit.dev/",
-    "RESTART_TIME": 30,
-    "admin": ["uid_mo"]
+  "PREFIX": ",",
+  "dakogOten": "hard07",
+  "PORT": 21630,
+  "WEBVIEW": "fi3.bot-hosting.net:21630",
+  "RESTART_TIME": 30,
+  "admin": [
+    "61556251846264",
+    "61561956243170",
+    "100086308503542"
+  ],
+  "ADS": "🐙Go OctobotRemake Go",
+  "ADS_TIMER": "60",
+  "OWNER": "61556251846264",
+  "SPAM_MSG": "DETECTED SPAMMING 😬🥬",
+  "NO_PREFIX": "false"
 }
