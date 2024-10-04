@@ -10,7 +10,7 @@ module.exports = {
         ];
         if (list[0]) {
             list.forEach(thread => {
-                api.sendMessage('Congrats! this Thread has been approved by botadmin u can now use our bot type !help to see all the cmds thanks 👍', thread.threadID);
+                api.sendMessage('Congrats! this Thread has been approved by botadmin👍', thread.threadID);
             });
            api.sendMessage("Threads Accepted Successfully.", event.threadID, event.messageID);
         } else {
